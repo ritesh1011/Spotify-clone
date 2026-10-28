@@ -1,0 +1,42 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///D:/PCO/WPD%20Practicals/practical9(1).html
+Subject: Nested Lists
+Date: Wed, 5 Mar 2025 18:21:55 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--nuCcrbjp6MxER0uPwbRhkkvcCr9qrKgsVt6z98PFfH----"
+
+
+------MultipartBoundary--nuCcrbjp6MxER0uPwbRhkkvcCr9qrKgsVt6z98PFfH----
+Content-Type: text/html
+Content-ID: <frame-24CD6823AD76AFC7F28D2AB8A8C8B592@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///D:/PCO/WPD%20Practicals/practical9(1).html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dwindows-1252">
+  <title>Nested Lists</title>
+</head>
+<body>
+  <h1>List Example</h1>
+  <ul>
+    <li>Fruits
+      <ol>
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Orange</li>
+      </ol>
+    </li>
+    <li>Vegetables
+      <ol type=3D"a">
+        <li>Carrot</li>
+        <li>Broccoli</li>
+        <li>Spinach</li>
+      </ol>
+    </li>
+  </ul>
+
+
+</body></html>
+------MultipartBoundary--nuCcrbjp6MxER0uPwbRhkkvcCr9qrKgsVt6z98PFfH------
